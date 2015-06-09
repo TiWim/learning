@@ -15,4 +15,5 @@ How to use git commands
 git push --remove-upstream origin test1
 
 - Delete the branch
+
 git push --delete origin test1
